@@ -1,0 +1,22 @@
+C:\Users\gdu95\source\repos\Banque\banqueV2\bin\Debug\banqueV2.exe.config
+C:\Users\gdu95\source\repos\Banque\banqueV2\bin\Debug\banqueV2.exe
+C:\Users\gdu95\source\repos\Banque\banqueV2\bin\Debug\banqueV2.pdb
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.csproj.AssemblyReference.cache
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.Form1.resources
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.Properties.Resources.resources
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.csproj.GenerateResource.cache
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.csproj.CoreCompileInputs.cache
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.exe
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.pdb
+C:\Users\gdu95\source\repos\Banque\banqueV2\obj\Debug\banqueV2.Form2.resources
+D:\projet visual studio\Banque\banqueV2\bin\Debug\banqueV2.exe.config
+D:\projet visual studio\Banque\banqueV2\bin\Debug\banqueV2.exe
+D:\projet visual studio\Banque\banqueV2\bin\Debug\banqueV2.pdb
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.csproj.AssemblyReference.cache
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.Form1.resources
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.Form2.resources
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.Properties.Resources.resources
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.csproj.GenerateResource.cache
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.csproj.CoreCompileInputs.cache
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.exe
+D:\projet visual studio\Banque\banqueV2\obj\Debug\banqueV2.pdb

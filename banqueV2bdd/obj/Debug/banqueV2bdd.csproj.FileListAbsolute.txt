@@ -1,0 +1,5 @@
+D:\projet visual studio\Banque\banqueV2bdd\obj\Debug\banqueV2bdd.csproj.AssemblyReference.cache
+D:\projet visual studio\Banque\banqueV2bdd\obj\Debug\banqueV2bdd.Form1.resources
+D:\projet visual studio\Banque\banqueV2bdd\obj\Debug\banqueV2bdd.Properties.Resources.resources
+D:\projet visual studio\Banque\banqueV2bdd\obj\Debug\banqueV2bdd.csproj.GenerateResource.cache
+D:\projet visual studio\Banque\banqueV2bdd\obj\Debug\banqueV2bdd.csproj.CoreCompileInputs.cache

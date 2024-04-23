@@ -1,0 +1,7 @@
+C:\Users\gdu95\source\repos\Banque\banqueV1\bin\Debug\banqueV1.exe.config
+C:\Users\gdu95\source\repos\Banque\banqueV1\bin\Debug\banqueV1.exe
+C:\Users\gdu95\source\repos\Banque\banqueV1\bin\Debug\banqueV1.pdb
+C:\Users\gdu95\source\repos\Banque\banqueV1\obj\Debug\banqueV1.csproj.AssemblyReference.cache
+C:\Users\gdu95\source\repos\Banque\banqueV1\obj\Debug\banqueV1.csproj.CoreCompileInputs.cache
+C:\Users\gdu95\source\repos\Banque\banqueV1\obj\Debug\banqueV1.exe
+C:\Users\gdu95\source\repos\Banque\banqueV1\obj\Debug\banqueV1.pdb
